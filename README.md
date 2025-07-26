@@ -19,4 +19,4 @@
             <img align="center"  alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div> <br>
 
-Desenvolvedor C++ | Engenharia Reversa | Segurança Ofensiva | Automação com Python
+Desenvolvedor C++ | Engenharia Reversa | Segurança Ofensiva | Automação com Python | Javascript
