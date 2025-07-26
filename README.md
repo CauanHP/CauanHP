@@ -19,4 +19,4 @@
             <img align="center"  alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div> <br>
 
-⁠"A questão não é saber os códigos ou linhas de comando, é saber o que fazer com eles."
+Desenvolvedor C++ | Engenharia Reversa | Segurança Ofensiva | Automação com Python
