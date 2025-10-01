@@ -18,7 +18,8 @@
 
 ## 🎯 Sobre Mim
 
-Sou um desenvolvedor apaixonado por **programação de sistemas** e **engenharia de software**. Minha especialidade está em criar soluções robustas e eficientes usando **C++ moderno**, sempre buscando a excelência técnica e a qualidade do código.
+Sou um desenvolvedor apaixonado por **programação de sistemas** e **engenharia de software**. Minha especialidade está em criar soluções robustas e eficientes usando **C++ moderno**, sempre buscando a excelência técnica e a qualidade do código, tenho um servidor no discord com 500 membros, já participei reportando falhas do anti-cheat Vanguard do Valorant.
+Discord do meu servidor: https://discord.gg/uy5trcm4
 
 ### 💡 O que me motiva:
 - **Resolver problemas complexos** com soluções elegantes
