@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-  <h2>🚀 Desenvolvedor C++ Especializado em Sistemas Avançados</h2>
+  <h2>🚀</h2>
   <p><em>Transformando ideias complexas em código elegante e performático</em></p>
 </div>
 
@@ -157,7 +157,7 @@ Um compilador completo implementando todas as fases de compilação, desde anál
 ## 📞 Vamos Conectar?
 
 <div align="center">
-  <a href="mailto:seu.email@exemplo.com">
+  <a href="mailto:cauanpirex@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://linkedin.com/in/cauanhp">
